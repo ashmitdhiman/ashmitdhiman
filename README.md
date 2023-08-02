@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ashmitdhiman
-- 🧑🏻‍💻 I’m currently learning web dev
+- 🧑🏻‍💻 I’m currently learning web development 
 - 📫 How to reach me ashmitdhiman7@gmail.com
 
 <!---
