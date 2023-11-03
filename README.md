@@ -31,6 +31,9 @@
       height="30"
       width="40"
   /></a>
+  <a href="http://discordapp.com/users/844109918054645781" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="1081547133800415257" height="30" width="40" /></a>
+
+
   
 </p>
 
